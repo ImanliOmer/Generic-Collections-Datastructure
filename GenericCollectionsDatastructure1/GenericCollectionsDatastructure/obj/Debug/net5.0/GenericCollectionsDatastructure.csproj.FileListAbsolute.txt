@@ -1,0 +1,5 @@
+C:\Users\Omer\Desktop\Generic-Collections-Datastructure\GenericCollectionsDatastructure1\GenericCollectionsDatastructure\obj\Debug\net5.0\GenericCollectionsDatastructure.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\Generic-Collections-Datastructure\GenericCollectionsDatastructure1\GenericCollectionsDatastructure\obj\Debug\net5.0\GenericCollectionsDatastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\Generic-Collections-Datastructure\GenericCollectionsDatastructure1\GenericCollectionsDatastructure\obj\Debug\net5.0\GenericCollectionsDatastructure.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\Generic-Collections-Datastructure\GenericCollectionsDatastructure1\GenericCollectionsDatastructure\obj\Debug\net5.0\GenericCollectionsDatastructure.AssemblyInfo.cs
+C:\Users\Omer\Desktop\Generic-Collections-Datastructure\GenericCollectionsDatastructure1\GenericCollectionsDatastructure\obj\Debug\net5.0\GenericCollectionsDatastructure.csproj.CoreCompileInputs.cache
